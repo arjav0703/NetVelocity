@@ -10,17 +10,17 @@ window.configure(bg='#1a212d')
 window.title('NetVelocity')
 
 # ADD ICON
-win_icon = PhotoImage(file='logo.png')
+win_icon = PhotoImage(file='images/logo.png')
 window.iconphoto(False,win_icon)
 
 # ADD GRAPHICS
-top_bar = PhotoImage(file='topbar.png')
+top_bar = PhotoImage(file='images/topbar.png')
 Label(window,image=top_bar,bg='#1a212d').pack()
 
-speed_ring = PhotoImage(file='ring.png')
+speed_ring = PhotoImage(file='images/ring.png')
 Label(window,image=speed_ring,bg='#1a212d').pack(pady=(40,0))
 
-start_button = PhotoImage(file="button.png")
+start_button = PhotoImage(file="images/button.png")
 start = Button(window,image=start_button,bg='#1a212d',bd=0,activebackground='#1a212d', cursor='hand2')
 start.pack(pady=10)
 
