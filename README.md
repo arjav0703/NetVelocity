@@ -4,7 +4,7 @@
 
 ## Click below to watch Demo
 
-[![Watch the video](https://cloud-8tnhv5zez-hack-club-bot.vercel.app/0image.png)](https://cloud-4zusmpzfz-hack-club-bot.vercel.app/0screencast_from_2024-11-29_17-19-09.mp4)
+[![Watch the video](https://cloud-8tnhv5zez-hack-club-bot.vercel.app/0image.png)](https://cloud-c2mgd8r7g-hack-club-bot.vercel.app/0screencast_from_2024-11-29_19-10-10.mp4)
 
 ## Features
 
