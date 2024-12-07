@@ -1,5 +1,5 @@
 # NetVelocity - Network Speed Test Application
-
+## NOTE: THIS PROJECT WAS BUILT BY FOLLOWING A TUTORIAL: https://youtu.be/duNlmdYXXVE?si=Dzzf7Fl_o2hhLDhs
 **NetVelocity** is a simple network speed test application built using Python's `Tkinter` library for the graphical user interface (GUI) and the `speedtest-cli` module to measure internet speed. This app measures your download speed, upload speed, and latency (ping), and displays the results in a visually appealing GUI.
 
 ## Click below to watch Demo
@@ -72,6 +72,6 @@ To run this application, you need the following:
 This project is open-source and available under the MIT License.
 
 ## Acknowledgments
-- https://www.youtube.com/watch?v=duNlmdYXXVE&list=PLl316cKxhMxtOWHa88kDqm42uWz1aqGfD&index=28&t=1088s
+- Imagees : https://www.youtube.com/watch?v=duNlmdYXXVE&list=PLl316cKxhMxtOWHa88kDqm42uWz1aqGfD&index=28&t=1088s
 - The app uses the `speedtest-cli` Python package to measure internet speeds.
 - Thanks to the Tkinter library for providing a simple and easy-to-use way to create GUIs in Python.
